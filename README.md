@@ -107,12 +107,8 @@ Then build JAX：
 ### Install trax. 
 ```
 cd ../trax
+python setup.py install
 ```
-Execute the following cell (once) before running any of the code samples.
-```
-import os
-import numpy as np
 
-!pip install -q -U trax
-import trax
-```
+
+
