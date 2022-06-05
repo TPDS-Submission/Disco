@@ -29,7 +29,7 @@ We will detailed introduced the installation steps of disco in this part.
 We recommand to use anaconda, please download the installation script to install anaconda through the link: https://repo.anaconda.com/archive/Anaconda2-2019.10-Linux-x86_64.sh
 After the installation, create an environment named disco with python3.7
 
-`conda create -n disco python=3.7`
+`conda create -n disco python=3.7 scipy=1.7.3`
 
 Then activate the environment:
 
