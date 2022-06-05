@@ -35,7 +35,7 @@ Then activate the environment:
 
 ```
 conda activate disco
-pip3 install t5==0.9.0
+pip3 install t5==0.1.0
 ```
 
 ### Install CUDA CUDNN and NCCL. 
