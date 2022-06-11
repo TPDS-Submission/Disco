@@ -1,0 +1,12 @@
+[submodule "fuse"]
+	path = fuse
+	url = https://github.com/yxd886/fuse.git
+[submodule "jax"]
+	path = jax
+	url = https://github.com/yxd886/jax.git
+[submodule "trax"]
+	path = trax
+	url = https://github.com/yxd886/trax.git
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/yxd886/tensorflow.git
